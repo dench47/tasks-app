@@ -4,7 +4,8 @@
 
 ## Демо
 
-Живая страница: https://dench47.github.io/tasks-app/
+Живая страница (Vercel): https://tasks-app-jade-kappa.vercel.app/
+Зеркало (GitHub Pages): https://dench47.github.io/tasks-app/
 
 ## Запуск локально
 
